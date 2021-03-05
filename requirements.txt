@@ -1,0 +1,9 @@
+torch==1.7.1+cu101
+pyannote.audio==1.1
+pyannote.core==4.1
+pyannote.database==4.0.4
+pyannote.metrics==3.0.1
+pyannote.pipeline==2.0
+moviepy==0.2.3.5
+ffmpeg==1.4
+pydub==0.24.1
